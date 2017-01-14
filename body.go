@@ -27,6 +27,10 @@ func (t Tongue) Color() color.Color {
 	return color.RGBA{randomUint8(0, 255), randomUint8(0, 255), randomUint8(0, 255), randomUint8(0, 255)}
 }
 
+func (t Tongue) Destroy() (int, error) {
+	return randomInt(0, 1000), nil
+}
+
 func GetHead() *Head {
 	return &Head{}
 }
