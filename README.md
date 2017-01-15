@@ -21,3 +21,4 @@ This story began [here in Twitter](https://twitter.com/mamal72/status/8203395400
 | [python](https://twitter.com/_reza___/status/820377600757379072) |
 | [elexir](https://twitter.com/alireza94/status/820402102203781122) |
 | [css](https://twitter.com/saeednitrate/status/820519232182030336) |
+| [Assembly](https://twitter.com/_whoamiii/status/820610932392923136) |
